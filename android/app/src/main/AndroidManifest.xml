@@ -3,7 +3,7 @@
     <uses-permission android:name="android.permission.RECORD_AUDIO" />
 
     <application
-        android:label="sound_record"
+        android:label="sound_recorder"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
