@@ -1,0 +1,15 @@
+{
+  "dart.flutterSdkPath": ".fvm/versions/3.24.5",
+  "dart.lineLength": 120,
+  "[dart]": {
+    "editor.tabSize": 2,
+    "editor.insertSpaces": true,
+    "editor.detectIndentation": false,
+    "editor.suggest.insertMode": "insert",
+    "editor.defaultFormatter": "Dart-Code.dart-code",
+    "editor.inlayHints.enabled": "offUnlessPressed",
+    "editor.rulers": [
+      120
+    ]
+  }
+}
